@@ -1694,7 +1694,7 @@ span.circles-text {
 		margin: 10.47em 0;
 	}
 	.thim-click-to-bottom {
-		bottom: 35%;
+		bottom: 20%;
 	}
 }
 @media screen and (max-width: 1680px) {
@@ -1702,7 +1702,7 @@ span.circles-text {
 		margin: 8.6em 0;
 	}
 	.thim-click-to-bottom {
-		bottom: 26%;
+		bottom: 20%;
 	}
 }
 
@@ -1711,7 +1711,7 @@ span.circles-text {
 		margin: 7.95em 0;
 	}
 	.thim-click-to-bottom {
-		bottom: 6%;
+		bottom: 20%;
 	}
 }
 @media screen and (max-width: 1440px) {
@@ -1732,7 +1732,7 @@ span.circles-text {
 }
 @media screen and (max-width: 1080px) {
 	.thim-click-to-bottom {
-		bottom: 5%;
+		bottom: 20%;
 	}
 	.banner-right {
 		margin: 200px auto 0;
@@ -1781,6 +1781,7 @@ span.circles-text {
 	}
 	.thim-click-to-bottom i {
 		padding: 16px 6px;
+    bottom: 20%;
 	}
 	.about-grid i.fa {
 		font-size: 60px;
@@ -1826,7 +1827,7 @@ span.circles-text {
 		font-size: 55px;
 	}
 	.thim-click-to-bottom {
-		bottom: 44%;
+		bottom: 20%;
 		left: 45%;
 	}
 	.navbar-brand {
@@ -1876,7 +1877,7 @@ span.circles-text {
 	}
 	.agileits_agile_about_mail input[type="text"], .agileits_agile_about_mail input[type="email"], .agileits_agile_about_mail textarea {
 		margin-right: 14px;
-		width: 48%;
+		width: 20%;
 	}
 	.navbar-brand {
 		padding: 10px 0px;
@@ -1925,7 +1926,7 @@ span.circles-text {
 		padding: 2em 0;
 	}
 	.thim-click-to-bottom {
-		bottom: -48%;
+		bottom: 20%;
 	}
 	.modal-dialog {
 		width: 660px;
@@ -1954,7 +1955,7 @@ span.circles-text {
 		font-size: 14px;
 	}
 	.thim-click-to-bottom {
-		bottom: -46%;
+		bottom: 20%;
 	}
 	.service-head h3, .about-head h3, .portfolio-head h3, .experience-head h3, .contact-head h3, .education-head h3, .coding-head h3, h3.w3_inner_tittle {
 		font-size: 2em;
@@ -2104,7 +2105,7 @@ span.circles-text {
 }
 @media screen and (max-width: 568px) {
 	.thim-click-to-bottom {
-		bottom: -70%;
+		bottom: 20%;
 	}
 	.banner-right span {
 		font-size: 45px;
@@ -2149,7 +2150,7 @@ span.circles-text {
 		text-align: center;
 	}
 	.thim-click-to-bottom {
-		bottom: -29%;
+		bottom: 20%;
 	}
 	.stats-info p {
 		letter-spacing: 1px;
@@ -2215,7 +2216,7 @@ span.circles-text {
 }
 @media screen and (max-width: 384px) {
 	.thim-click-to-bottom {
-		bottom: -53%;
+		bottom: 20%;
 	}
 	.stats-grid {
 		width: 100%;
@@ -2250,7 +2251,7 @@ span.circles-text {
 		font-size: 17px;
 	}
 	.thim-click-to-bottom {
-		bottom: -66%;
+		bottom: 20%;
 	}
 	.about-bottom-grid h4 {
 		letter-spacing: 1px;
