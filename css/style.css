@@ -1,11 +1,3 @@
-/*--
-	Author: W3Layouts
-	Author URL: http://w3layouts.com
-	License: Creative Commons Attribution 3.0 Unported
-	License URL: http://creativecommons.org/licenses/by/3.0/
---*/
-/*-- Reset-Code --*/
-
 body {
 	padding: 0;
 	margin: 0;
@@ -79,7 +71,8 @@ img{
 	width: auto;
 }
 .navbar-inverse {
-    background-color:transparent;
+    /*background-color:transparent;*/
+    background-color: rgba(8, 8, 8, 0);
     border-color:transparent;
 }
 .navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
@@ -121,8 +114,13 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 
 
 .banner {
-    background: #02cad4;
+    background: #3D4971;
     padding-top: 50px;
+    height: 550px;
+    background-image: url(../images/justin_antlers.jpg);
+    background-repeat:   no-repeat;
+    background-size:     cover;
+    background-position: bottom; 
 }
 .banner-right {
     margin: 250px auto 0;
@@ -138,11 +136,12 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
     color: #fff;
     font-size: 60px;
     font-weight: 900;
-    text-shadow: 5px 5px 0 #5d5d5d;
+    text-shadow: 2px 2px 0 #5d5d5d;
     font-family: 'Text Me One', sans-serif;
 }
 .banner-right h2 {
-    color: #464646;
+    color: #fff;
+    text-shadow: 2px 2px 0 #5d5d5d;
     font-size: 28px;
     margin: 0 0 20px;
     font-style: italic;
